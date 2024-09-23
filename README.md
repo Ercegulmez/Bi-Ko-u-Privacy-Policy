@@ -1,7 +1,7 @@
 # Gizlilik Politikası
 
 ## 1. Giriş 
-Bi’ Koşu, gizliliğinizi ve kişisel verilerinizin korunmasını ön planda tutar. Bu Gizlilik Politikası, uygulamamızı (birlikte “Hizmetler”) kullanmanız sırasında topladığımız bilgileri, bu bilgileri nasıl kullandığımızı, bu bilgileri üçüncü taraflarla ne ölçüde paylaştığımızı ve bu bilgilerle ilgili haklarınızı açıklar. Hizmetleri kullanarak, kişisel verilerinizin bu Gizlilik Politikası'na uygun olarak kullanılmasını kabul etmiş olursunuz. Gizlilik Politikası hakkında herhangi bir sorunuz varsa, lütfen bize [runner.club.app@gmail.com](mailto:runner.club.app@gmail.com) e-posta adresinden ulaşın. Bu Gizlilik Politikası zaman zaman değişebilir. Hizmetleri kullanmaya devam etmeniz, yapılan değişiklikleri kabul ettiğiniz anlamına gelir, bu nedenle politikayı düzenli olarak kontrol edin.
+Bi’ Koşu, gizliliğinizi ve kişisel verilerinizin korunmasını ön planda tutar. Bu Gizlilik Politikası, uygulamamızı (birlikte “Hizmetler”) kullanmanız sırasında topladığımız bilgileri, bu bilgileri nasıl kullandığımızı, bu bilgileri üçüncü taraflarla ne ölçüde paylaştığımızı ve bu bilgilerle ilgili haklarınızı açıklar. Hizmetleri kullanarak, kişisel verilerinizin bu Gizlilik Politikası'na uygun olarak kullanılmasını kabul etmiş olursunuz. Gizlilik Politikası hakkında herhangi bir sorunuz varsa, lütfen bize [support@bikosu.com.tr](mailto:support@bikosu.com.tr) e-posta adresinden ulaşın. Bu Gizlilik Politikası zaman zaman değişebilir. Hizmetleri kullanmaya devam etmeniz, yapılan değişiklikleri kabul ettiğiniz anlamına gelir, bu nedenle politikayı düzenli olarak kontrol edin.
 
 ## 2. Ne topluyoruz ve neden? 
 Hizmetleri size sunmak ve kullanıcı deneyimini sürekli olarak geliştirmek amacıyla kullanıcılarımız hakkında çeşitli bilgiler topluyoruz. Tam liste aşağıda verilmiştir.
@@ -32,10 +32,10 @@ Belirli koşullar altında, yasa gereği aşağıdaki haklara sahipsiniz:
 - **Verilerinizin düzeltilmesi** – bu, bizimle paylaştığınız eksik veya yanlış bilgileri düzeltmemizi istemenize olanak tanır; ve
 - **Verilerinizin silinmesi** – bu, verilerinizi işlemeye devam etmemiz için geçerli bir neden bulunmaması durumunda verilerinizi silmemizi veya kaldırmamızı istemenize olanak tanır. Ayrıca, işleme hakkınıza itiraz ettiğinizde verilerinizi silmemizi veya kaldırmamızı da talep edebilirsiniz.
 
-Yukarıda açıklanan haklardan herhangi birini kullanmak istiyorsanız veya kişisel verilerinizi nasıl kullandığımız hakkında herhangi bir sorunuz varsa, lütfen bize [runner.club.app@gmail.com](mailto:runner.club.app@gmail.com) e-posta adresinden ulaşın.
+Yukarıda açıklanan haklardan herhangi birini kullanmak istiyorsanız veya kişisel verilerinizi nasıl kullandığımız hakkında herhangi bir sorunuz varsa, lütfen bize [support@bikosu.com.tr](mailto:support@bikosu.com.tr) e-posta adresinden ulaşın.
 
 ## 7. Çocuklarla İlgili Politikanız Nedir?
 Hizmetlerimiz 18 yaşının altındaki çocuklar için tasarlanmamıştır. Eğer bu yaşın altındaysanız, Hizmetleri kullanmamalısınız. Bir çocuğun bize kişisel bilgi verdiğini öğrenirsek, bu bilgileri silmek, o kişinin hesabını sonlandırmak ve erişimini kısıtlamak için adımlar atacağız. Çocuğunuzun bize kişisel bilgi verdiğini öğrenmiş bir ebeveynseniz, lütfen bizimle iletişime geçin.
 
 ## 8. Sizinle Nasıl İletişime Geçebilirim?
-Bu Gizlilik Politikası ve verilerinizin işlenmesi ve güvenliği hakkında sorularınız veya endişeleriniz varsa, lütfen bize [runner.club.app@gmail.com](mailto:runner.club.app@gmail.com) e-posta adresinden ulaşın.
+Bu Gizlilik Politikası ve verilerinizin işlenmesi ve güvenliği hakkında sorularınız veya endişeleriniz varsa, lütfen bize [support@bikosu.com.tr](mailto:support@bikosu.com.tr) e-posta adresinden ulaşın.
